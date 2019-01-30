@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CompositeLaunchConfiguration
+Bundle-SymbolicName: CompositeLaunchConfiguration;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.debug.core, org.eclipse.jface,
+ org.eclipse.core.runtime, org.eclipse.debug.ui, org.eclipse.swt
+Automatic-Module-Name: CompositeLaunchConfiguration
+Bundle-RequiredExecutionEnvironment: JavaSE-11
